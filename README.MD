@@ -1,4 +1,5 @@
 DOCKER-READY Telegram proxy
+(https://hub.docker.com/r/deadflag/tg-bot-rkn)
 
 Чтобы запустить этот прокси необходимо ввести следующую команду
 
